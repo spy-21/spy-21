@@ -30,16 +30,10 @@ I'm a passionate developer who loves building cool stuff, learning new technolog
 
 ---
 
-### 📈 GitHub Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=spy-21&theme=tokyo_night&area=true&hide_border=true&custom_title=🔥%20My%20GitHub%20Activity)](https://github.com/spy-21/github-readme-activity-graph)
-
-
----
 
 ### 📫 Reach me at
 
-- ✉️ Email: youremail@example.com
+- ✉️ Email: katagonishivaprasad@gmail.com
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/shiva-prasad-k)
 
 
