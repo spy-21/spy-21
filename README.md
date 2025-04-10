@@ -40,7 +40,7 @@ I'm a passionate developer who loves building cool stuff, learning new technolog
 ### 📫 Reach me at
 
 - ✉️ Email: youremail@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourname)
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/shiva-prasad-k)
 
 
 ---
