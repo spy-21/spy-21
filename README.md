@@ -32,7 +32,7 @@ I'm a passionate developer who loves building cool stuff, learning new technolog
 
 ### 📈 GitHub Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=spy-21&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=spy-21&theme=dracula)](https://github.com/spy-21/github-readme-activity-graph)
 
 ---
 
@@ -40,7 +40,7 @@ I'm a passionate developer who loves building cool stuff, learning new technolog
 
 - ✉️ Email: youremail@example.com
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourname)
-- 🧠 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+
 
 ---
 
