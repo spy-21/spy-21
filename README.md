@@ -30,6 +30,7 @@ I'm a passionate developer who loves building cool stuff, learning new technolog
 
 ---
 
+🌐 Connect with Me
 
 <p align="left">
   <a href="mailto:katagonishivaprasad@gmail.com" target="_blank">
